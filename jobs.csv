@@ -1,0 +1,6 @@
+id,jobname,position,salary,requirement_ipk,requirement_skill,CompanyId
+1,Networking,Senior Network,20000000,3.2,Networking,1
+2,HRD,Senior Manager,30000000,3.2,Marketing Strategy,2
+3,Programmer,Junior Programming,10000000,3.0,Programming,3
+4,HRD,Staff Admission,15000000,3.2,Networking,4
+5,Translator,Senior Translator,15000000,3.2,Translator,1

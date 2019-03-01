@@ -1,0 +1,6 @@
+id,firstname,lastname,email,username,password,CV,IPK,skill
+1,Lalu,Oldi,laluoldi@gmail.com,lalu10,rahasia,null,3.0,programming
+2,Muhammad,Ilham,ilham@gmail.com,ilham10,qwert,null,2.9,marketing
+3,Eka,Cipta,eka@gmail.com,eka10,asdfg,null,3.5,translator,
+4,Ernest,Johanes,ernest@gmail.com,ernest10,12345,null,3.2,finance
+5,Felix,Goh,felix@gmail.com.com,felix10,54321,null,2.6,Psikologi
